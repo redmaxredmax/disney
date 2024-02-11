@@ -1,0 +1,29 @@
+.cart__box {
+    width: 301px;
+    text-align: center;
+}
+
+.cart__icon {
+    margin-bottom: 12px;
+}
+
+.cart__title {
+    color: #f9f9f9;
+    font-size: 26px;
+    font-weight: 800;
+    line-height: 38px;
+    letter-spacing: 0%;
+    margin-bottom: 18px;
+}
+
+.cart__text {
+    color: #c0c0c0;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.8;
+}

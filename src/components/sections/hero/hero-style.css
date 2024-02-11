@@ -1,0 +1,29 @@
+.hero {
+    
+    padding-top: 53px;
+}
+
+.hero__container {
+    padding-bottom: 194px;
+}
+
+.hero__list {
+    display: flex;
+    justify-content: center;
+    gap: 28px;
+    margin-bottom: 24px;
+}
+
+.hero__tab {
+    color: #f9f9f9;
+
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+    background-color: transparent;
+
+    &:focus{
+        border-bottom: 4px solid #f9f9f9;
+    }
+}

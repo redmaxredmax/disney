@@ -1,0 +1,30 @@
+.watch__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 161px;
+}
+
+.watch__block {
+    padding-left: 21px;
+    width: 605px;
+}
+
+.watch__title {
+    color: #f9f9f9;
+    font-size: 38px;
+    font-weight: 800;
+    line-height: 50px;
+    margin-bottom: 24px;
+    letter-spacing: 0%
+}
+
+.watch__text {
+    color: #c0c0c0;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    text-align: left;
+    margin-bottom: 20px;
+}

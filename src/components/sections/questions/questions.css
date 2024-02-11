@@ -1,0 +1,39 @@
+.questions__title {
+    margin-bottom: 30px;
+    color: #f9f9f9;
+    font-size: 38px;
+    font-weight: 800;
+    line-height: 50px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 16px;
+}
+.quest__box{
+    padding: 23px;
+    background-color:  #13151d;
+    display: flex;
+    align-items: center;
+}
+.quest__name {
+    color: #f9f9f9;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+    width: 100%;
+    align-items: center;
+}
+.quest__btn{
+    background-image: url("../../../images/plus.svg");
+    width: 27px;
+    height: 27px;
+    background-color: transparent;
+    background-repeat: no-repeat;
+}
+.questions__item{
+    margin-bottom: 16px;
+}
+.questions__container{
+    padding-bottom: 107px;
+}
